@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Figury_s15752/1.0.0": {
+        "runtime": {
+          "Figury_s15752.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Figury_s15752/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

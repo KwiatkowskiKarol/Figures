@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\bin\Debug\netcoreapp3.1\Figury_s15752.exe
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\bin\Debug\netcoreapp3.1\Figury_s15752.deps.json
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\bin\Debug\netcoreapp3.1\Figury_s15752.runtimeconfig.json
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\bin\Debug\netcoreapp3.1\Figury_s15752.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\bin\Debug\netcoreapp3.1\Figury_s15752.dll
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\bin\Debug\netcoreapp3.1\Figury_s15752.pdb
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\obj\Debug\netcoreapp3.1\Figury_s15752.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\obj\Debug\netcoreapp3.1\Figury_s15752.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\obj\Debug\netcoreapp3.1\Figury_s15752.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\obj\Debug\netcoreapp3.1\Figury_s15752.dll
+C:\Users\Asus\source\repos\Figury_s15752\Figury_s15752\obj\Debug\netcoreapp3.1\Figury_s15752.pdb
